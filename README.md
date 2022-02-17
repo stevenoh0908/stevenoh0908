@@ -16,9 +16,10 @@
 
 ### <center>학습 중인 언어 및 도구 / What I'm currently studying</center>
 
+![kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-A9A9A9?style=flat-square&logo=cplusplus&logoColor=white)
 ![php](https://img.shields.io/badge/php-8892BF?style=flat-square&logo=php&logoColor=white)
-![fortran](https://img.shields.io/badge/fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
+![fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### <center>문의 / Contact</center>
