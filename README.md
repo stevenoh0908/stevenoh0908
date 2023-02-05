@@ -17,6 +17,7 @@
 
 ### <center>학습 중인 언어 및 도구 / What I'm currently studying</center>
 
+![java]("https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white")
 ![kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![cpp](https://img.shields.io/badge/C++-A9A9A9?style=flat-square&logo=cplusplus&logoColor=white)
 ![php](https://img.shields.io/badge/php-8892BF?style=flat-square&logo=php&logoColor=white)
