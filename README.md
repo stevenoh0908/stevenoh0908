@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
-
 ### <center>소개 / About</center>
 
 **(Kor)** 취미로 코딩을 하고 있는 아마추어 개발자입니다. 주로 어플리케이션을 개발하고 있지만, 최근에는 인공지능 및 빅데이터도 조금씩 손을 대고 있습니다.
