@@ -7,20 +7,21 @@
 
 ### <center>주 언어 및 도구 / Main Languages & Tools</center>
 
-![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-FFA500?style=flat-square&logo=JavaScript&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=float-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=float-square&logo=r&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-E34F26?style=float-square&logo=HTML5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=float-square&logo=CSS3&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-FFA500?style=float-square&logo=JavaScript&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=float-square&logo=Git&logoColor=white)
 
 ### <center>학습 중인 언어 및 도구 / What I'm currently studying</center>
 
-![kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![cpp](https://img.shields.io/badge/C++-A9A9A9?style=flat-square&logo=cplusplus&logoColor=white)
-![php](https://img.shields.io/badge/php-8892BF?style=flat-square&logo=php&logoColor=white)
-![fortran](https://img.shields.io/badge/Fortran-734F96?style=flat-square&logo=fortran&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![julia](https://img.shields.io/badge/Julia-9558B2?style=float-square&logo=julia&logoColor=white)
+![kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=float-square&logo=kotlin&logoColor=white)
+![cpp](https://img.shields.io/badge/C++-A9A9A9?style=float-square&logo=cplusplus&logoColor=white)
+![php](https://img.shields.io/badge/php-8892BF?style=float-square&logo=php&logoColor=white)
+![fortran](https://img.shields.io/badge/Fortran-734F96?style=float-square&logo=fortran&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?style=float-square&logo=docker&logoColor=white)
 
 ### <center>문의 / Contact</center>
 - stevenoh0908@gmail.com
