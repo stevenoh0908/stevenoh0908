@@ -1,6 +1,6 @@
 ## 👤 Bio
 
-A philosopher who enjoys coding as a hobby.
+A philosopher who enjoys to write some code as a hobby.
 
 - 🎓 Bachelor of Earth Envinronmental Sciences (BS) & Computer Engineering (BE) at Seoul National Univ, South Korea.
 - ✨ Interested in Fediverse, Journaling and Extentialism (I know it sounds wierd 😂)
