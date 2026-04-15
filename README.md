@@ -7,4 +7,4 @@ A philosopher who enjoys to write some code as a hobby.
 
 ## 📦 Just Moved!
 
-Most of my works are moved to [personal gitea instance](https://vault.stevenoh0908.pe.kr). You can visit and check it out!
+Most of my works are moved to [personal gitea instance](https://vault.stevenoh0908.pe.kr). You can visit and check them out!
